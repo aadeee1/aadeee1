@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 <h1>Hi 👋, I'm Ahmed</h1>
 <p>A passionate full stack developer </p>
 
